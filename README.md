@@ -3,4 +3,5 @@ For this project, I was tasked to gather and clean out datas, based on the knowl
 
 # Reference:
 [1] “Pandas.DataFrame.Merge.” Pandas.DataFrame.Merge - Pandas 2.0.3 Documentation, pandas.pydata.org/docs/reference/api/pandas.DataFrame.merge.html. Accessed 29 Aug. 2023. 
+
 [2] “Pandas.Dataframe.” Pandas.DataFrame - Pandas 2.0.3 Documentation, pandas.pydata.org/docs/reference/api/pandas.DataFrame.html. Accessed 29 Aug. 2023. 
